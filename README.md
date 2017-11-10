@@ -1,2 +1,2 @@
-# Daft
+# Daft #
 Spotify API Shenanigans
